@@ -1,0 +1,16 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "build": "webpack",
+    "serve": "webpack --progress --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^6.0.0"
+  }
+}
